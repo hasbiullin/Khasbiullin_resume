@@ -76,6 +76,7 @@ __Pinnacle Management Group__,
 `2025-2027`
 __Math Tutor__, LDSBC
 
+change
 
 `2023-2025`
 __Service Missionary__, South Africa
