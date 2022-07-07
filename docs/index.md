@@ -18,27 +18,27 @@ title: Takhir Khasbiullin Resume
 `2020-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 GPA
+4.0 GPA
 
--	B.S. in Business Analytics
--	B.S. in Business Management Marketing
--	Human Resources certificate 
+B.S. in Business Analytics
+B.S. in Business Management Marketing
+Human Resources certificate 
 
 `2017-2019`
 __LDS Business College__, Salt Lake City, UT
 
-- 4.0 GPA
+4.0 GPA
 
--	AAS in Business Management
--	AAS in Accounting
--	Business Analytics certificate 
+AAS in Business Management
+AAS in Accounting
+Business Analytics certificate 
 
 `2004-2009`
 __Rostov-na-Donu State University of Railways__, Rostov, Russia
 
-- 3.13 GPA
+3.13 GPA
 
--	B.S. in Power-Engineering
+B.S. in Power-Engineering
 
 
 ## Work Experience
