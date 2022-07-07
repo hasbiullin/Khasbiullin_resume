@@ -153,9 +153,7 @@ __NOMAAD Embroidered Apparel__, Rexburg, ID
 - Increased revenue by 30% through implementing marketing initiatives and different sales strategies
 
 
-## Full-Time Volunteer Representative
-
-### Co-founder / CFO, HR Manager, VP of Sales (1-month rotations)	
+### Full-Time Volunteer Representative	
 `March 2010 - April 2012`
 __The Church of Jesus Christ of Latter-Day Saints__, Russia / Kazakhstan
 
