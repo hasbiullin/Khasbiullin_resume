@@ -12,6 +12,9 @@ title: Takhir Khasbiullin Resume
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+## Skills
+I've been advised before that putting a Skills section at the top of a resume is a good idea.
+- Linda Spellman from class
 
 ## Education
 
